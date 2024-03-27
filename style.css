@@ -209,6 +209,11 @@ span {
     margin: 1rem 0 3rem;
 }
 
+section.capabilities {
+    min-height: 91vh;
+    padding: 10rem 9% 2rem;
+}
+
 /* FOOTER */
 .footer {
     display: flex;
